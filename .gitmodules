@@ -215,3 +215,6 @@
 [submodule "janus/vim/tools/visualstar"]
 	path = janus/vim/tools/visualstar
 	url = https://github.com/thinca/vim-visualstar.git
+[submodule "janus/vim/tools/vimux"]
+	path = janus/vim/tools/vimux
+	url = https://github.com/benmills/vimux.git
